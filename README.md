@@ -10,7 +10,6 @@ Welcome to Biriyani Paradise! This is a simple web application built using Node.
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -66,7 +65,3 @@ Here's a brief overview of the project structure:
 ## Contributing
 
 Contributions are welcome! If you have suggestions or find any issues, please create a pull request or open an issue in the repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
