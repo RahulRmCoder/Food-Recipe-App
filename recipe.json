@@ -1,0 +1,104 @@
+[
+  {
+    "id": "0001",
+    "type": "biriyani",
+    "name": "Chicken Biriyani",
+    "price": 8.99,
+    "ingredients": {
+      "protein": {
+        "name": "Chicken",
+        "preparation": "Marinated and Cooked"
+      },
+      "rice": {
+        "name": "Basmati Rice",
+        "preparation": "Cooked with spices"
+      },
+      "toppings": [
+        {
+          "name": "Fried Onions",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Boiled Egg",
+          "quantity": "1"
+        },
+        {
+          "name": "Mint Leaves",
+          "quantity": "1/4 cup"
+        },
+        {
+          "name": "Raita",
+          "quantity": "1 cup"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0002",
+    "type": "biriyani",
+    "name": "Beef Biriyani",
+    "price": 9.49,
+    "ingredients": {
+      "protein": {
+        "name": "Beef",
+        "preparation": "Marinated and Cooked"
+      },
+      "rice": {
+        "name": "Basmati Rice",
+        "preparation": "Cooked with spices"
+      },
+      "toppings": [
+        {
+          "name": "Fried Onions",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Boiled Egg",
+          "quantity": "1"
+        },
+        {
+          "name": "Cilantro Leaves",
+          "quantity": "1/4 cup"
+        },
+        {
+          "name": "Raita",
+          "quantity": "1 cup"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0003",
+    "type": "biriyani",
+    "name": "Fish Biriyani",
+    "price": 10.99,
+    "ingredients": {
+      "protein": {
+        "name": "Fish",
+        "preparation": "Marinated and Cooked"
+      },
+      "rice": {
+        "name": "Basmati Rice",
+        "preparation": "Cooked with spices"
+      },
+      "toppings": [
+        {
+          "name": "Fried Onions",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Boiled Egg",
+          "quantity": "1"
+        },
+        {
+          "name": "Lemon Wedges",
+          "quantity": "4 pieces"
+        },
+        {
+          "name": "Raita",
+          "quantity": "1 cup"
+        }
+      ]
+    }
+  }
+]
