@@ -28,9 +28,9 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository:**
 
-    ```sh
-    git clone https://github.com/yourusername/biriyani-paradise.git
-    cd biriyani-paradise
+   ```sh
+    git clone https://github.com/RahulRmCoder/Food-Recipe-App.git
+    cd Food-Recipe-App
     ```
 
 2. **Install dependencies:**
